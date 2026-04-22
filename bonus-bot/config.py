@@ -1,7 +1,7 @@
-API_ID = "YOUR_API_ID"
-API_HASH = "YOUR_API_HASH"
+API_ID = 39626492
+API_HASH = "4080b561532594ca8f668f9aec961449"
 
-CHANNEL_USERNAME = "your_channel"
+CHANNEL_USERNAME = "StakecomDailyDrops"
 
 WEB_URL = "https://example.com/redeem"
 

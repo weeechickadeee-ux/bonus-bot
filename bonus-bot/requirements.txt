@@ -1,0 +1,7 @@
+telethon
+pytesseract
+opencv-python
+numpy
+requests
+playwright
+ffmpeg-python
